@@ -1,5 +1,5 @@
 # MayaSDK_Issues
-A repository for feature requests and bug reporting for the Looking Glass Maya SDK in closed beta. This repository does not contain any source code. *The Maya SDK has been shelved until we have resources to improve it.*
+A repository for feature requests and bug reporting for the Looking Glass Maya SDK in closed beta. This repository does not contain any source code. **The Maya SDK has been shelved until we have resources to improve it.**
 
 # INSTRUCTIONS:
 This tutorial is intended for use with the closed beta of the Maya SDK. If you'd like to sign up for the closed beta, please fill out [this form](https://docs.google.com/forms/d/1UDvp7AX4X1Jf16kTyROBbMfhXN-AEiqrrCkR7-9CzOE/).
